@@ -11,9 +11,9 @@ Wir laden alle Teilnehmer unserer Veranstaltungen ein, mit uns sichere und posit
 Open [Source/Culture/Tech] Citizenship
 --------------------------------------
 
-Ein zusätzliches Ziel dieses Verhaltenskodexes ist es, die Open [Source/Culture/Tech] Citizenship zu stärken, indem wir Teilnehmer ermutigen, die Beziehungen zwischen Handlungen und deren Auswirkungen auf unsere Community zu erkennen und zu festigen.
+Ein zusätzliches Ziel dieses Verhaltenskodexes ist es, die Open [Source/Culture/Tech] Citizenship zu stärken, indem wir Teilnehmer dazu ermutigen, die Zusammenhänge zwischen unseren Handlungen und deren Auswirkungen auf die Community zu erkennen und festigen.
 
-Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive Handlungen sind unerlässlich, um den vielen Formen von Ungleichheit und Machtmissbrauch in der Gesellschaft entgegenzuwirken.
+Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive Handlungen sind unerlässlich, um vielen Formen von Ungleichheit und Machtmissbrauch in der Gesellschaft entgegenzuwirken.
 
 Wenn du jemandem begegnest, der sich viel Mühe gibt, unsere Community einladend und freundlich zu gestalten und alle Teilnehmer dazu anregt, sich voll einzubringen, würden wir gerne davon hören.
 
@@ -46,7 +46,7 @@ Folgen von inakzeptablem Verhalten
 Inakzeptables Verhalten jeglichen Communitymitglieds, einschließlich Sponsoren und Entscheidungsberechtigten, wird nicht toleriert.
 Jeder, von dem das Unterlassen inakzeptablen Verhaltens verlangt wird, hat augenblicklich Folge zu leisten.
 
-Wenn ein Communitymitglied sich auf inakzeptable Art und Weise verhält, steht es den Communityorganisatoren zu, jegliche ihnen angemessen erscheinende Maßnahme zu ergreifen, bis einschließlich einem befristeten oder permanenten Ausschluss aus der Community ohne Warnung (sowie im Falle einer zahlungspflichtigen Veranstaltung ohne Rückerstattung von Kosten).
+Wenn ein Communitymitglied sich auf inakzeptable Art und Weise verhält, steht es den Communityorganisatoren zu, jegliche ihnen angemessen erscheinende Maßnahme zu ergreifen, bis einschließlich einem befristeten oder permanenten Ausschluss aus der Community ohne vorheriger Warnung (sowie im Falle einer zahlungspflichtigen Veranstaltung ohne Rückerstattung von Kosten).
 
 
 Wenn du Zeuge oder Opfer von inakzeptablem Verhalten wirst
